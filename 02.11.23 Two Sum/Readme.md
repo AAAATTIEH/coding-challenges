@@ -1,2 +1,2 @@
-**Link**: https://replit.com/join/rdadmwaiqm-aliattieh
+**Link**: <a target="_blank" href="https://replit.com/join/rdadmwaiqm-aliattieh"></a>
 
