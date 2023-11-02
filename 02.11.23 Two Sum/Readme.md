@@ -1,2 +1,3 @@
-**Link**: <a target="_blank" href="https://replit.com/join/rdadmwaiqm-aliattieh">Coding Pad</a>
+**Link**: [Open in New Tab](https://replit.com/join/rdadmwaiqm-aliattieh){:target="_blank"}
+
 
