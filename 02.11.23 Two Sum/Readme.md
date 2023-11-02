@@ -1,3 +1,2 @@
-**Link**: [Open in New Tab](https://replit.com/join/rdadmwaiqm-aliattieh){:target="_blank"}
-
+**Link**: https://replit.com/join/rdadmwaiqm-aliattieh
 
